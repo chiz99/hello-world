@@ -1,5 +1,7 @@
 public class HelloWorld {
 
+     private int bob;
+
      /*
        Hello World
      */
